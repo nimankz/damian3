@@ -59,3 +59,6 @@ body{
 	border-radius: 5px;
 	font-size: 25px;
 }
+form p{
+	padding-left: 1em;
+}
